@@ -1,5 +1,5 @@
 # Certificados
 
-Certificados do Developer Circles São Paulo. 
+Certificados da Guilda Angular Itaú Unibanco. 
 
-https://devcsp.github.io/certificados/
+https://guildaangularitau.github.io/certificados/
