@@ -1,19 +1,19 @@
-# Facebook Developer Circles
-# XXº Meetup - Nome do Meetup
+# Guilda Angular Itaú
+# XXº Encontro - Nome do Meetup
 
-Abaixo estão disponíveis os Certificados de Participação das pessoas que estiveram presentes em nosso Meetup. 
+Abaixo estão disponíveis os Certificados de Participação das pessoas que estiveram presentes em nosso encontro semanal. 
 
 Essa página também serve como área de comprovação do Certificado.
 
 Local:
-Estação Hack
-Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
+Itaú Unibanco
+Praça Alfredo Egydio de Souza Aranha, 100, Torre Olavo Setubal, Parque Jabaquara - CEP 04344-902 - São Paulo - Brasil
 
-Em 11 de Setembro de 2019
+Em 14 de Setembro de 2022
 
 # Palestrantes
-- [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
-- [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
+- [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrantex.pdf)
+- [Nome do Palestrante 2](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrantey.pdf)
 
 # Participantes
 - [Nome do Participante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
@@ -27,4 +27,4 @@ Em 11 de Setembro de 2019
 - [Nome do Participante 9](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
 - [Nome do Participante 10](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
 
-[Voltar](https://devcsp.github.io/certificados)
+[Voltar](https://guildaangularitau.github.io/certificados)
